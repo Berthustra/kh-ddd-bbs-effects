@@ -1,0 +1,9 @@
+[package]
+name = "fep"
+version = "0.1.0"
+edition = "2021"
+description = "Dream Drop Distance's FEP effect files: parser and interpreter (read from DDD's exe)"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+glam = "0.29"
