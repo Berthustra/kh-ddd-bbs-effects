@@ -5,7 +5,7 @@ Distance* and *Kingdom Hearts Birth by Sleep*, with a full write-up of the forma
 is built, how the engine plays it frame by frame, how it is drawn, and how the characters' motion
 events (`.ead`) start and stop effects on their bones.
 
-As far as we know, this is the first public documentation of these formats. It was made while
+As far as I know, this is the first public documentation of these formats. It was made while
 porting DDD's Flowmotion and BBS's Command Styles into *Kingdom Hearts Final Mix*, where all of
 it now draws in game (the Flowmotion & Shotlock for KH1 mod).
 
