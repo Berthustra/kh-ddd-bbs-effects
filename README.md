@@ -1,8 +1,7 @@
 # Kingdom Hearts Effect Files (DDD & BBS): Format Guide and Reader
 
 By **Berthustra**. How the visual effects of *Dream Drop Distance* and *Birth by Sleep* work
-inside their `.fep` effect files, and a library that reads and plays them. (The repository's
-short name, `kh-fep`, means *Kingdom Hearts FEP*: FEP is the effect file type.)
+inside their `.fep` effect files, and a library that reads and plays them.
 
 A reader and player for the visual effect files (`.fep`) of *Kingdom Hearts 3D: Dream Drop
 Distance* and *Kingdom Hearts Birth by Sleep*, with a full write-up of the format: how an effect
@@ -48,7 +47,7 @@ files in `D:/KH-Extract/ddd/original`; change the paths at the top of
 
 ## Credit
 
-kh-fep is by **Berthustra**. If you use the docs or the code in your own tools, mods or write-ups,
+This project is by **Berthustra**. If you use the docs or the code in your own tools, mods or write-ups,
 please credit **Berthustra** and link this repository. The licences below require keeping the
 copyright and [NOTICE](NOTICE) in any copy.
 
