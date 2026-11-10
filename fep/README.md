@@ -6,7 +6,7 @@ their elements as DDD's exe does (Steam KH 2.8; every address below is an RVA fr
 and reads the exe where the spec is thin. It does not draw: it gives a drawer each live part's
 matrices, colour and draw commands.
 
-Package `fep`, edition 2021, MIT OR Apache-2.0, depends on `glam` 0.29 only. Build and test in
+Package `fep`, edition 2021, under the terms in `../LICENSE.md`, depends on `glam` 0.29 only. Build and test in
 this folder (`cargo test`; `cargo test --release -- --ignored` parses all 667 FEPs).
 
 ## Use

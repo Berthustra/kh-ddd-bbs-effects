@@ -554,10 +554,9 @@ The detailed documents next to this one:
 | [aura.md](aura.md) | the Flowmotion aura and FecFlash |
 | [kh1-renderer.md](kh1-renderer.md) | design notes for drawing these effects in KH1 |
 
-A reference implementation is the `fep` crate in this repository (`fep/`, Rust, MIT OR
-Apache-2.0). It parses FEP and `resident.frr` and runs elements as described here; drawing is
+A reference implementation is the `fep` crate in this repository (`fep/`, Rust). It parses FEP and `resident.frr` and runs elements as described here; drawing is
 left to the caller. The mod's `src/fx/` draws them in KH1.
 
-These notes and the crate are licensed MIT OR Apache-2.0, like the rest of the repository.
+These notes and the crate are under the terms in [LICENSE.md](../../LICENSE.md), like the rest of the repository: credit Berthustra; publishing or building on them needs permission; no money making.
 Kingdom Hearts is a trademark of Disney and Square Enix; this work is not affiliated with or
 endorsed by them.

@@ -1,5 +1,7 @@
 Kingdom Hearts Effect Files (DDD & BBS)
 Copyright 2026 Berthustra (https://github.com/Berthustra/kh-ddd-bbs-effects)
 
-The format documentation (docs/) and the fep crate (fep/) are by Berthustra.
-If you use or adapt them, keep this notice and credit Berthustra.
+The format documentation (docs/) and the fep library (fep/) are by Berthustra.
+They are under the terms in LICENSE.md: credit is required, publishing or
+building on them needs Berthustra's permission, and making money with them
+is not allowed. Keep this notice in any copy.

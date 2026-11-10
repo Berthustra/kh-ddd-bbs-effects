@@ -45,15 +45,19 @@ See [`fep/README.md`](fep/README.md) for the API. The tests and examples look fo
 files in `D:/KH-Extract/ddd/original`; change the paths at the top of
 `fep/tests/flowmotion.rs` to yours.
 
-## Credit
+## Credit, permission and money
 
-This project is by **Berthustra**. If you use the docs or the code in your own tools, mods or write-ups,
-please credit **Berthustra** and link this repository. The licences below require keeping the
-copyright and [NOTICE](NOTICE) in any copy.
+This project is by **Berthustra**. Its [LICENSE](LICENSE.md) in short:
 
-## Licence
+- **Free:** reading it, learning from it, using it on your own computer for yourself, quoting short
+  parts with credit, linking to it.
+- **Credit is required:** name **Berthustra** and link this repository wherever you use or build
+  on it.
+- **Ask first:** publishing copies, changed versions, ports to other games, or mods, tools and
+  libraries built on it need Berthustra's written permission. Ask by opening an issue.
+- **No money:** no selling, paywalls, donations, rewards or Donation Points from anything that
+  contains it or is built on it.
 
-MIT or Apache-2.0, at your option ([LICENSE-MIT](LICENSE-MIT), [LICENSE-APACHE](LICENSE-APACHE)).
 Kingdom Hearts is © Disney and Square Enix; this project is not affiliated with them.
 
 ## Thanks
