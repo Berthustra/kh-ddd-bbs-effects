@@ -1,5 +1,7 @@
 # kh-fep: Dream Drop Distance and Birth by Sleep effects
 
+By **Berthustra**. `kh-fep` stands for *Kingdom Hearts FEP*, the effect file format.
+
 A reader and player for the visual effect files (`.fep`) of *Kingdom Hearts 3D: Dream Drop
 Distance* and *Kingdom Hearts Birth by Sleep*, with a full write-up of the format: how an effect
 is built, how the engine plays it frame by frame, how it is drawn, and how the characters' motion
@@ -41,6 +43,12 @@ cargo test            # the tests on the game's files skip when they are not fou
 See [`fep/README.md`](fep/README.md) for the API. The tests and examples look for extracted DDD
 files in `D:/KH-Extract/ddd/original`; change the paths at the top of
 `fep/tests/flowmotion.rs` to yours.
+
+## Credit
+
+kh-fep is by **Berthustra**. If you use the docs or the code in your own tools, mods or write-ups,
+please credit **Berthustra** and link this repository. The licences below require keeping the
+copyright and [NOTICE](NOTICE) in any copy.
 
 ## Licence
 
